@@ -1,0 +1,15 @@
+{
+  "name": "vrchat-avatars",
+  "main": "index.js",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "ngrok": "^4.3.3",
+    "node-osc": "^8.0.6",
+    "socket.io": "^4.5.3"
+  }
+}

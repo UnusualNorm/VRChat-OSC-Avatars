@@ -1,0 +1,11 @@
+.cursor {
+  position: absolute;
+  width: 20px;
+  z-index: 1000;
+
+  -webkit-user-drag: none;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
